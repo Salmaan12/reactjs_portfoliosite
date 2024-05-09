@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "designation": "frontend developer",
+        "companyName": "PAZ technologies",
+        "duration": "15 Dec, 2020 - 23 Feb, 2024",
+        "description": "Lorem Ipsum Dolor Sit Amet Consectetur, Adipisicing Elit. Officiis Reprehenderit Voluptatem Corrupti Ullam Ex Excepturi Recusandae Incidunt Maiores Esse Delectus Aspernatur Cumque Doloremque, Accusamus Error Dolore Quas Repellat Eveniet Consectetur. Facere Ipsam Hic Cum Atque, Fugit Repellendus Odit Iusto Delectus, Laudantium Reprehenderit Labore Magni Cumque Ut Nesciunt Voluptate Culpa Esse Quasi Modi Vel Commodi Recusandae! Reiciendis Debitis Voluptatum Exercitationem Excepturi! Ullam Quaerat Sunt Laborum Laboriosam Tenetur Assumenda, Dignissimos Consectetur Accusamus Est Provident Amet Sint Hic Eum Doloribus Quibusdam Repudiandae Cum Modi, Fugiat Debitis Reiciendis Iusto Dolor Ipsa. Voluptatum, Consequatur Ab. Qui Accusantium, Aspernatur Vitae Saepe Totam Voluptates Nesciunt Ad Repudiandae Dolorum, Amet Ut Molestiae Suscipit Omnis Fuga Rem Sapiente Hic Enim Possimus Ullam Nostrum Optio."
+    },
+    {
+        "id": 2,
+        "designation": "web developer / angular developer",
+        "companyName": "freelancing",
+        "duration": "2021 - Present",
+        "description": "Lorem Ipsum Dolor Sit Amet Consectetur, Adipisicing Elit. Officiis Reprehenderit Voluptatem Corrupti Ullam Ex Excepturi Recusandae Incidunt Maiores Esse Delectus Aspernatur Cumque Doloremque, Accusamus Error Dolore Quas Repellat Eveniet Consectetur. Facere Ipsam Hic Cum Atque, Fugit Repellendus Odit Iusto Delectus, Laudantium Reprehenderit Labore Magni Cumque Ut Nesciunt Voluptate Culpa Esse Quasi Modi Vel Commodi Recusandae! Reiciendis Debitis Voluptatum Exercitationem Excepturi! Ullam Quaerat Sunt Laborum Laboriosam Tenetur Assumenda, Dignissimos Consectetur Accusamus Est Provident Amet Sint Hic Eum Doloribus Quibusdam Repudiandae Cum Modi, Fugiat Debitis Reiciendis Iusto Dolor Ipsa. Voluptatum, Consequatur Ab. Qui Accusantium, Aspernatur Vitae Saepe Totam Voluptates Nesciunt Ad Repudiandae Dolorum, Amet Ut Molestiae Suscipit Omnis Fuga Rem Sapiente Hic Enim Possimus Ullam Nostrum Optio."
+    }
+]

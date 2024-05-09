@@ -1,0 +1,19 @@
+.btnCommonStyle {
+  background-color: #FFB624;
+  color: white;
+  width: 180px;
+  height: 38px;
+  border: none;
+  border-radius: 6px 0px;
+  padding: 6px;
+  transition: 0.2s ease;
+  text-transform: capitalize;
+  font-size: 16px;
+  letter-spacing: 0.12rem;
+}
+
+.btnCommonStyle:hover {
+  background-color: transparent;
+  color: #FFB624;
+  border: 1px solid #FFB624;
+}

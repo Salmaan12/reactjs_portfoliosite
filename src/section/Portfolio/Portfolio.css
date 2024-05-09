@@ -1,0 +1,15 @@
+#project {
+    min-height: 100vh;
+}
+
+#portfolioWrapper > .portfolioCard {
+    background-color: #FFB624;
+    height: 450px;
+    border-radius: 20px;
+}
+
+div#portfolioWrapper {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 10px;
+}

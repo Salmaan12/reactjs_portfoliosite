@@ -1,0 +1,33 @@
+.nav-link {
+    color: #ffb6248b !important;
+    text-transform: capitalize;
+}
+
+.nav-link.active, .nav-link:hover {
+    color: #ffb624 !important;
+    font-weight: 600;
+}
+
+.social_icons {
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+    align-self: center;
+    margin-right: 18px;
+}
+
+.social_icons > .fa-brands {
+    color: #FFB624;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+span.middleLine::before {
+    content: "|";
+    margin: 0px 10px;
+    color: #FFB624;
+    display: flex;
+    height: 40px !important;
+    width: 12px;
+    font-size: 24px;
+}

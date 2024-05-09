@@ -1,0 +1,33 @@
+.container#about {
+    height: calc(100vh - 84px);
+    display: flex;
+    align-items: center;
+}
+
+h1.nameHeading {
+    color: #FFB624;
+    letter-spacing: 0.11rem;
+    line-height: 48px;
+}
+
+span.iam {
+    color: #fdfdfd;
+    font-size: 26px;
+    letter-spacing: 0.08rem;
+}
+
+.index-module_type__E-SaG::after {
+    color: #FFB624;
+}
+
+.aboutPara>p {
+    color: #fdfdfd;
+    font-size: 16px;
+    line-height: 28px;
+    margin-top: 16px;
+}
+
+.aboutImg {
+    float: right;
+    width: 60%;
+}
