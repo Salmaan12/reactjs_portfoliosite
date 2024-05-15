@@ -39,15 +39,15 @@ const Experience = () => {
                         })
                     }
                 </div>
-                <div className="row">
-                <h2 className='text-center text-white my-5'>My Skills</h2>
+                <div className="row mb-5">
+                    <h2 className='text-center text-white my-5'>My Skills</h2>
                     <div className="skillCards">
                         {
                             skills.map((item) => {
                                 return (
                                     <>
                                         <div className="card" key={item.id}>
-                                        <img className='skillsIcon' src={item.icon} alt="" />
+                                            <img className='skillsIcon' src={item.icon} alt="" />
                                             <h5>{item.language}</h5>
                                         </div>
                                     </>
